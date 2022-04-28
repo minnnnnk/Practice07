@@ -13,7 +13,9 @@ public class Circle extends Shape{
 		System.out.println("[원]#면색:" +super.fillColor+ 
 				"  #반지름:" + radius +" 그렸습니다.");                                               
 	}
-	
+	public void width () {
+		
+	}
 }
 
 
